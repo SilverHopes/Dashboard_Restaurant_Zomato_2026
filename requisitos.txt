@@ -1,0 +1,23 @@
+Dependencias/librerías:
+    streamlit
+    plotly
+    pandas
+
+Es recomendable realizar las instalaciones en un entorno virtual.
+Comandos de instalación de librerías:
+    pip install streamlit
+    pip install pandas
+    pip install plotly
+
+Este comando instala las 3 librerías en una sola línea:
+    pip install streamlit plotly pandas
+
+# Para iniciar el entorno virtual
+    --> .venv\Scripts\activate
+# Para desactivarlo/salir 
+    --> deactivate
+
+Para iniciar el programa
+    streamlit run app.py    
+
+# Recordatorio de agregar manualmente el dataset
